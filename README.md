@@ -4,4 +4,4 @@ Thank you for using [GitLocalize](https://gitlocalize.com/). You can create feed
 
 ## Thank you
 
-We know you’re busy and we appreciate you taking the time to help with testing. You’re the best! :100:
+We know you’re quite busy and we appreciate you taking the time to help. You’re the best! :100:
