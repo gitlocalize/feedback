@@ -1,4 +1,3 @@
-------
 !!PLEASE READIT!!
 
 To make it easier for us to treat your feedback,
@@ -15,6 +14,7 @@ Please remove this notice if you're confident your issue isn't a duplicate.
 
 If you require more general support please send emials:
 info[@]gitlocalize.com
+
 ------
 
 
