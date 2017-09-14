@@ -1,6 +1,6 @@
-!!PLEASE READIT!!
+!!PLEASE READ IT!!
 
-To make it easier for us to treat your feedback,
+To make it easier for us to treat your feedback, 
 we have made a template you can fill out.
 
 Before opening a new issue, make sure to search for keywords in the issues
@@ -9,10 +9,10 @@ filtered by the "bug" label.
 - https://github.com/gitlocalize/feedback/labels/bug
 
 and verify the issue you're about to submit isn't a duplicate. 
-Please make separate posts for each feature request, or bug report.
+Please make separate posts for each feature request or bug report.
 Please remove this notice if you're confident your issue isn't a duplicate.
 
-If you require more general support please send emials:
+If you require more general support please send emails:
 info[@]gitlocalize.com
 
 ------
@@ -29,7 +29,7 @@ info[@]gitlocalize.com
 
 ### Repository URL
 
-(If possible, please paste repository urls which have erros.)
+(If possible, please paste repository URLs which have errors.)
 
 
 ### What is the current *bug* behavior?
@@ -56,6 +56,6 @@ logs, and code as it's very hard to read otherwise.)
 
 
 <!--
-   We appreciate for you giving us your feedback. 
+   We appreciate you giving us your feedback. 
    The GitLocalize team. 
 -->
