@@ -14,5 +14,4 @@ We are useing with a translation tool called [GitLocalize][gl] and follow the st
 1. When you are done, send the translation for reviews.
 1. Reviewed translation will be sent as a Pull Request to GitHub by language admin in the community.
 
-To learn more about how GitLocalize works, visit their [help page][gl-help].   
-If you find any issues or feature requests, please file them in [GitLocalize's issue tracker][gl-issue-tracker].
+To learn more about how GitLocalize works, visit their [help page][gl-help]. If you find any issues or feature requests, please file them in [GitLocalize's issue tracker][gl-issue-tracker].
