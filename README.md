@@ -1,6 +1,6 @@
 # GitLocalize Feedback
 
-Thank you for using [GitLocalize](https://gitlocalize.com/). You can create feedback in this repository. If you have any questions, please don't hesitate to [create a issue](https://github.com/gitlocalize/feedback/issues/new).
+Thank you for using [GitLocalize](https://gitlocalize.com/). You can create feedback in this repository. If you have any questions, please don't hesitate to [create an issue](https://github.com/gitlocalize/feedback/issues/new).
 
 ## Thank you
 
